@@ -1,5 +1,5 @@
 # Passive
-A synth based on TripleOscillator in LMMS. This synth is made in SynthMaker.
+A synth based on TripleOscillator in LMMS. This synth is made in SynthMaker, and requires SynthMaker to use. I may provide a FL Studio Plugin version in the future.
 
 Features:
 - 3 oscillators with basic waveforms
