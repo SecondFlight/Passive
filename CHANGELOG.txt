@@ -1,0 +1,22 @@
+Changelog:
+
+
+0.0.2:
+Pushed to github.
+
+Current feature list:
+- 3 oscillators with basic waveforms
+
+  - Coarse detune
+
+  - Fine pitch controls for L/R channels
+
+  - Phase controls
+
+- Toggleable oscillator modulation option
+
+  - Currently, this is a mix of AM/PM/FM. More options will be added in the future.
+
+- ASDR volume envolope
+
+- Moog-like lowpass filter with ASDR controls
