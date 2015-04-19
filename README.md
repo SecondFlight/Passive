@@ -7,6 +7,6 @@ Features:
   - Fine pitch controls for L/R channels
   - Phase controls
 - Toggleable oscillator modulation option
-  - To be implemented :)
+  - PM/AM/MIX/SYNC/FM
 - ASDR volume envolope
 - Moog-like lowpass filter with ASDR controls
