@@ -1,12 +1,15 @@
 Changelog:
 
 0.0.3:
-In development.
-
 - Changed the default patch to a basic init patch.
 - Rewrote the oscillator
 - Added a waveform picker that uses assets from TripleOscillator
 - Removed the external blend thing (for now)
+- Added AM/PM/SYNC/FM/MIX blend modes
+
+Known bugs:
+- Some of the 2+1 blend modes don't behave as expected
+- The AM algorithm isn't true to the original
 
 0.0.2:
 Pushed to github.
