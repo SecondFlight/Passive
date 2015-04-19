@@ -1,5 +1,12 @@
 Changelog:
 
+0.0.3:
+In development.
+
+- Changed the default patch to a basic init patch.
+- Rewrote the oscillator
+- Added a waveform picker that uses assets from TripleOscillator
+- Removed the external blend thing (for now)
 
 0.0.2:
 Pushed to github.
