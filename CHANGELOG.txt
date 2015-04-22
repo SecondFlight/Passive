@@ -1,6 +1,7 @@
 Changelog:
 
-0.0.4: GUI Update (In progress)
+0.0.4: GUI Update
+- Put everything (except filter track) neatly into a gui based on the one in LMMS
 
 0.0.3: Oscillator rewrite
 - Changed the default patch to a basic init patch.
