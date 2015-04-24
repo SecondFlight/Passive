@@ -8,5 +8,6 @@ Features:
   - Phase controls
 - Toggleable oscillator modulation option
   - PM/AM/MIX/SYNC/FM
+- Independent processing for left and right channels
 - ASDR volume envolope
 - Moog-like lowpass filter with ASDR controls
