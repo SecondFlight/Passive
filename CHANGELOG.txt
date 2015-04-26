@@ -1,4 +1,6 @@
 Changelog:
+0.0.5: Envelope Graph
+- Added an envelope graph
 
 0.0.4: GUI Update
 - Put everything (except filter track) neatly into a gui based on the one in LMMS
