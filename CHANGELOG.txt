@@ -1,6 +1,8 @@
 Changelog:
-0.0.5: Envelope Graph
+0.0.5: Envolope graph / new pitch tools
 - Added an envelope graph
+- Added a pitch envolope
+- Added a master pitch knob
 
 0.0.4: GUI Update
 - Put everything (except filter track) neatly into a gui based on the one in LMMS
