@@ -1,4 +1,7 @@
 Changelog:
+0.0.6: LFOs
+- Added trigger LFOs to the volume/cutoff/res/pitch screens
+
 0.0.5: Envolope graph / new pitch tools
 - Added an envelope graph
 - Added a pitch envolope
