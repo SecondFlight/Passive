@@ -1,4 +1,10 @@
 Changelog:
+
+0.0.7: Unison
+- Improved the envolope display code
+- Added a delay function to the display (delay knob doesn't work yet)
+- Added a global unison function. Each oscillator gets the same random phase value for each voice if this is engaged.
+
 0.0.6: LFOs
 - Added trigger LFOs to the volume/cutoff/res/pitch screens
 
